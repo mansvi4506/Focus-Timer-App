@@ -37,7 +37,7 @@ A sleek and user-friendly React-based focus timer app designed to boost your pro
 1. Install my-project with npm
 
 ```bash
-  git clone https://github.com/mansvi4506/your-repo-name.git
+  git clone https://github.com/mansvi4506/Focus-Timer-App.git
   cd your-repo-name
 ```
 
